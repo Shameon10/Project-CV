@@ -7,9 +7,15 @@ nav{
   color: white;
 }
 #sprava{
-  width: 20em;
+  height: 10em;
+  width: 35em;
 }
 .nav-item{
   align-items: center;
   padding: 0.3em;
+}
+.k{
+  margin-left: 5em;
+  margin-right: 5em;
+  margin-top: 2.5em;
 }
