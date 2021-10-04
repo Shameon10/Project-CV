@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.5",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "smtp": "^0.1.4"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "name": "project-cv",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shameon10/Project-CV.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shameon10/Project-CV/issues"
+  },
+  "homepage": "https://github.com/Shameon10/Project-CV#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "description": ""
+}
