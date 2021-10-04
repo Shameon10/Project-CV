@@ -1,5 +1,10 @@
 
-
-a {
+nav{
+  margin-bottom: 1.5em;
+}
+#link{
   color: white;
+}
+.sprava{
+  width: 20em;
 }
