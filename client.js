@@ -35,7 +35,7 @@ myform_el.addEventListener("submit", function(evt){
 console.log(data)
 
 
-  fetch('http://localhost:8080', {
+  fetch('http://localhost:3000', {
 
     method: 'POST', 
     headers: {
